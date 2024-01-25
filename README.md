@@ -8,6 +8,6 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![pages](https://giathi-daniel.github.io/watchStore/)
+[pages](https://giathi-daniel.github.io/watchStore/)
 
 ![preview img](/preview.png)
